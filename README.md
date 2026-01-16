@@ -16,3 +16,4 @@ Local project for dysarthric speech recognition experiments.
 - `notebooks/01_librispeech_explore.ipynb`
 - `notebooks/02_uaspeech_explore.ipynb`
 - `notebooks/03_audio_features_mfcc.ipynb`
+# DysarthricSpeechProject
