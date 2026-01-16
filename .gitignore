@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+.condarc
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data: NEVER commit datasets
+data/raw/
+data/hf_cache/
+data/processed/
+
+# Large audio / archives (extra safety)
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# Logs/results
+logs/
+runs/
+wandb/
+mlruns/
+outputs/
+checkpoints/
